@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "98283489337",
+    "firebase_url": "https://playstel-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "playstel",
+    "storage_bucket": "playstel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98283489337:android:8dafe2b8278c34809a65e8",
+        "android_client_info": {
+          "package_name": "com.Playstel.BattleCrewProject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98283489337-hrgh6nupjbp7j1ulc3c9dbnmfd38k2oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBNwXeiJzfo3fmr_eeGSRu69KHALxVouU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98283489337-hrgh6nupjbp7j1ulc3c9dbnmfd38k2oa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "98283489337-mru1c44ges5un0rkgpjaq9uht0b860j7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Playstel.BattleCrewProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
