@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>98283489337-mru1c44ges5un0rkgpjaq9uht0b860j7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.98283489337-mru1c44ges5un0rkgpjaq9uht0b860j7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAoBDdwyb6vMIgSu_OZv8h0zya2SZVB4bE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>98283489337</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Playstel.BattleCrewProject</string>
+	<key>PROJECT_ID</key>
+	<string>playstel</string>
+	<key>STORAGE_BUCKET</key>
+	<string>playstel.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:98283489337:ios:e95ccf72cb0cb0dd9a65e8</string>
+	<key>DATABASE_URL</key>
+	<string>https://playstel-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: 792c9697-b675-40f5-a989-e814a62287f7
+    AppIdFusion: 
+    AppIdChat: 
+    AppIdVoice: 
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: tr
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: 
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - ClickRpc
+  - DestroyRpc
+  - RpcClearBuffer
+  - RpcNonServerOwnedTeleportFromServer
+  - RpcTeleport
+  - RPC_AddPlayerToTeam
+  - RPC_BlowBase
+  - RPC_CaptureBase
+  - RPC_CreateBot
+  - RPC_CreatePlayer
+  - RPC_CreateUnitSpawnForPlayer
+  - RPC_CurrentWeaponFire
+  - RPC_CurrentWeaponReload
+  - RPC_Death
+  - RPC_GetAward
+  - RPC_GetBones
+  - RPC_PickItem
+  - RPC_ReceiveBattleScore
+  - RPC_ReceiveDamage
+  - RPC_ReceiveFragInfo
+  - RPC_ReceiveImpact
+  - RPC_ReceivePlayerScore
+  - RPC_Respawn
+  - RPC_SetGameValues
+  - RPC_Start
+  - RPC_Swing
+  - RPC_ThrowAnim
+  - RPC_ThrowGrenade
+  - RPC_UpdateCustomCharacter
+  - Shot
+  - TransferDamage
+  - RPC_UpdateCharacter
+  - RPC_SetUnitData
+  - RPC_SetUnitDataTest
+  - RPC_CreateUnitSpawner
+  - RPC_CreateUnitSpawnerMaster
+  - RPC_AddNewPlayer
+  - RPC_CreateUnit
+  - RPC_CurrentItemAttack
+  - RPC_CurrentItemMelee
+  - RPC_CurrentItemThrow
+  - RPC_PickLast
+  - RPC_ThrowSwing
+  - RPC_PickRecent
+  - RPC_Restart
+  - RPC_SetPools
+  - RPC_Spawn
+  - RPC_AddPlayer
+  - RPC_CreateSessionUnit
+  - RPC_InstallSessionUnit
+  - RPC_SellCollectionItems
+  - SellCollectionItems
+  - Sell
+  - RPC_SellHandle
+  - Loot
+  - RPC_LootHandle
+  - RPC_CreateCrate
+  - RPC_CreateItems
+  - RPC_CreateStat
+  - Remove
+  - RPC_Remove
+  - Buy
+  - RPC_Buy
+  - Death
+  - RPC_DeathHandle
+  - RPC_UseHandle
+  - Use
+  - RPC_Token
+  - Token
+  - RPC_ReceiveHealth
+  - PickWeapon
+  - RPC_PickWeaponHandle
+  - ChangeWeapon
+  - RPC_ChangeWeaponHandle
+  - RPC_ReceiveExperience
+  - RPC_Spin
+  - Spin
+  - RPC_ReceiveFrag
+  - RPC_SendPlayerPayloadToRoom
+  - RPC_GameOverHandle
+  - RPC_RespawnHandle
+  - RPC_Magazine
+  - CreateSplash
+  - RPC_FirearmReload
+  - RPC_FirearmShot
+  - RPC_UpdateItems
+  - RPC_CreateCrateInstance
+  - RPC_DeathPlayerData
+  - RPC_Termination
+  - RPC_ResendFrags
+  - RPC_ResendHealth
+  - RPC_UpdateBuffer
+  - RPC_SetPlayerData
+  - RPC_SetUserStatistics
+  - RPC_ReturnWeaponTransform
+  - RPC_SetUnitNickName
+  - RPC_AddToken
+  - RPC_BuyItems
+  - RPC_ReceiveItems
+  - RPC_RemoveItems
+  - RPC_SellTokens
+  - RPC_TakeBackpackItems
+  - RPC_UseItems
+  - RPC_FragReward
+  - RPC_GameOver
+  - RPC_SubtractLive
+  - RPC_GetResult
+  - RPC_TakeStartItems
+  - Respawn
+  - RPC_ChangeBackpackItems
+  - RPC_ChangeCharacterItems
+  - RPC_ChangeCurrency
+  - RPC_ChangeExperience
+  - RPC_ChangeFrags
+  - RPC_ChangeHealth
+  - RPC_ChangeLives
+  - RPC_ChangeSupportItems
+  - RPC_ChangeTokens
+  - RPC_ChangeWeaponItems
+  - RPC_ChangeLevel
+  - RPC_SetMaxValues
+  - RPC_SetMoveValues
+  - RPC_ChangeAmmo
+  - RPC_ChangeHolders
+  - RPC_ChangeBullets
+  - RPC_ChangeTurnover
+  - RPC_AdditionReloadSound
+  - RPC_OpenPlace
+  - RPC_SetCustomMaterial
+  - RPC_Announce
+  - RPC_AddBot
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
+  DevRegionSetOnce: 0
