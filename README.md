@@ -1,7 +1,7 @@
 # Dead Stand*
 Multiplayer shooter in post-apocalyptic world. Play with friends in team PvP deathmatches! 
 
-*Attention! This repo is a cut demo version of the project for code review.
+*Attention! This repo is a cut demo version of the project for code review (not for Unity Editor).
 
 Site: www.playstel.com/deadstand
 
