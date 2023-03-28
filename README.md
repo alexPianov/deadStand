@@ -38,5 +38,5 @@ Unity 3d, Jet-Brains Rider, Adobe Illustrator, Adobe Premiere Pro, Notion, XMind
 Assets:
 ---
 DO-tween Animation Engine, Anti-Cheat Toolkit,
-Text Animator, Appodeal, A* Pathfinding, Mesh Combiner, 
+Text Animator, Iron Source, A* Pathfinding, Mesh Combiner, 
 Synty Art Assets, Lean GUI, etc.
